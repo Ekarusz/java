@@ -18,6 +18,12 @@
 		    <version>5.10.2</version>
 		    <scope></scope>
 		</dependency>
+		<!-- 아파치에서 만든 유틸 라이브러리(apache comoons lang) -->
+		<dependency>
+		    <groupId>org.apache.commons</groupId>
+		    <artifactId>commons-lang3</artifactId>
+		    <version>3.14.0</version>
+		</dependency>
 	</dependencies>
   <build>
     <sourceDirectory>src</sourceDirectory>
